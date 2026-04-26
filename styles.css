@@ -60,6 +60,8 @@ h1{
 .profile_image{
   position: relative;
   left: 50%;
+  width: 10%;
+  height: 10%;
 }
 .ember{
   position: absolute;
